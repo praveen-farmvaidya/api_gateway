@@ -16,8 +16,10 @@ httpx
 python-multipart
 pydantic[email]
 pydantic
+slowapi
 aiohttp
 authlib
 starlette
 python-dotenv
 structlog
+
